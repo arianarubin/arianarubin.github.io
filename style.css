@@ -1,0 +1,114 @@
+  h1
+  {
+    color:white;
+    font-size: 90px;
+    text-shadow: 5px 5px  0px #644368;
+    text-align: center;
+    animation: ani 5s infinite;
+    font-family: 'Bellefair', serif;
+    }
+  body{
+    background-size: 100%;
+    background-color: #fbf7ff;
+  }
+  p
+  {
+    color:black;
+    border: 3px solid #ce8cc7;
+    border-color: #644368;
+    margin: 10px;
+    padding: 25px
+  }
+  .fish{
+    background-image: url(fish.jpg);
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: absolute;
+    left: 300px;
+    top: 200px;
+  }
+  .evan{
+    background-image: url(evan.jpg);
+    height: 400px;
+    width: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: absolute;
+    left: 400px;
+    top: 100px;
+  }
+  .circle{
+    background-color: #d2c1dd;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    position: absolute;
+    right: 200px;
+    top: 325px;
+  }
+  .lilly{
+    background-image: url(lilly.jpg);
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: absolute;
+    left: 700px;
+    top: 300px;
+  }
+  .kai1{
+    background-image: url(kai1.jpg);
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: absolute;
+    right: 10px;
+    top: 20px;
+  }
+  .building{
+    background-image: url(building.jpg);
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: absolute;
+    right: 10px;
+    top: 20px;
+  }
+  .expo{
+    background-image: url(expo.jpg);
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: absolute;
+    right: 10px;
+    top: 20px;
+  }
+  .katrina{
+    background-image: url(katrina.jpg);
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: absolute;
+    right: 10px;
+    top: 20px;
+  }
+  .mia1{
+    background-image: url(mia1.jpg);
+    width: 400px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: absolute;
+    right: 10px;
+    top: 20px;
+  }
+  @keyframes ani {
+    from{color: #644368}
+    to{color: #bfacc4}
+  }
